@@ -2,4 +2,4 @@
 Basic Toggle on/off extension UI
 
 
-!(https://i.imgur.com/FZPs2wC.png)
+[!(https://i.imgur.com/FZPs2wC.png)
