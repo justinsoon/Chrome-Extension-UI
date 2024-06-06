@@ -1,5 +1,4 @@
 # Chrome-Extension-UI
 Basic Toggle on/off extension UI
 
-
-[!(https://i.imgur.com/FZPs2wC.png)
+![Preview]([http://url/to/img.png](https://github.com/justinsoon/Chrome-Extension-UI/blob/main/FZPs2wC.png?raw=true))
